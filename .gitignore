@@ -1,0 +1,8 @@
+# PyCharm
+.idea/
+
+# Catboost info folder
+.catboost_info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
